@@ -1,0 +1,15 @@
+node_modules
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.test.local
+.env.production.local
+.env.production.1234567890
+
+# Next.js build output
+.next/
+.next
+hell
+
